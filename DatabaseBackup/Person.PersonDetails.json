@@ -1,0 +1,100 @@
+[{
+  "_id": {
+    "$oid": "6839e2bd58393bec4f542a82"
+  },
+  "Name": "Alice Johnson",
+  "Company": "Allianz",
+  "Email": "alice.johnson@example.com",
+  "Phone": "+1-202-555-0143",
+  "Address": "123 Maple St, Springfield, IL"
+},
+{
+  "_id": {
+    "$oid": "6839e2bd58393bec4f542a83"
+  },
+  "Name": "Bob Smith",
+  "Company": "Allianz",
+  "Email": "bob.smith@example.com",
+  "Phone": "+1-202-555-0178",
+  "Address": "456 Oak Ave, Denver, CO"
+},
+{
+  "_id": {
+    "$oid": "6839e2bd58393bec4f542a84"
+  },
+  "Name": "Charlie Davis",
+  "Company": "Allianz",
+  "Email": "charlie.davis@example.com",
+  "Phone": "+1-202-555-0199",
+  "Address": "789 Pine Rd, Austin, TX"
+},
+{
+  "_id": {
+    "$oid": "6839e2bd58393bec4f542a85"
+  },
+  "Name": "Diana Miller",
+  "Company": "Allianz",
+  "Email": "diana.miller@example.com",
+  "Phone": "+1-202-555-0110",
+  "Address": "321 Birch Ln, Seattle, WA"
+},
+{
+  "_id": {
+    "$oid": "6839e2bd58393bec4f542a86"
+  },
+  "Name": "Ethan Brown",
+  "Company": "Allianz",
+  "Email": "ethan.brown@example.com",
+  "Phone": "+1-202-555-0132",
+  "Address": "654 Cedar Blvd, Miami, FL"
+},
+{
+  "_id": {
+    "$oid": "6839e2bd58393bec4f542a87"
+  },
+  "Name": "Fiona Green",
+  "Company": "Allianz",
+  "Email": "fiona.green@example.com",
+  "Phone": "+1-202-555-0165",
+  "Address": "987 Willow Way, Portland, OR"
+},
+{
+  "_id": {
+    "$oid": "6839e2bd58393bec4f542a88"
+  },
+  "Name": "George Hall",
+  "Company": "Allianz",
+  "Email": "george.hall@example.com",
+  "Phone": "+1-202-555-0184",
+  "Address": "246 Elm St, Boston, MA"
+},
+{
+  "_id": {
+    "$oid": "6839e2bd58393bec4f542a89"
+  },
+  "Name": "Hannah Lee",
+  "Company": "Allianz",
+  "Email": "hannah.lee@example.com",
+  "Phone": "+1-202-555-0156",
+  "Address": "135 Spruce Dr, Phoenix, AZ"
+},
+{
+  "_id": {
+    "$oid": "6839e2bd58393bec4f542a8a"
+  },
+  "Name": "Ian Turner",
+  "Company": "Allianz",
+  "Email": "ian.turner@example.com",
+  "Phone": "+1-202-555-0123",
+  "Address": "864 Fir Ct, Chicago, IL"
+},
+{
+  "_id": {
+    "$oid": "6839e2bd58393bec4f542a8b"
+  },
+  "Name": "Julia Adams",
+  "Company": "Allianz",
+  "Email": "julia.adams@example.com",
+  "Phone": "+1-202-555-0109",
+  "Address": "753 Ash Loop, Atlanta, GA"
+}]
