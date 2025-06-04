@@ -1,0 +1,21 @@
+
+<p></p>
+<div align="center">
+
+<div *ngIf="personArray">
+ <!-- <h2>Person Details</h2>-->
+  <table border="1"  class="dark">
+    <thead>
+    <tr>
+      <th>Person List</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr *ngFor="let person of personArray">
+      <td><a href="#" (click)="onClickSend(person.id); $event.preventDefault()">{{ person.name }}</a></td>
+    </tr>
+    </tbody>
+  </table>
+</div>
+
+</div>

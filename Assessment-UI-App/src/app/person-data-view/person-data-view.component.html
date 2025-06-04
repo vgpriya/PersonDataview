@@ -1,0 +1,35 @@
+<div align="center">
+  <div *ngIf="person">
+  <table class="dark">
+    <thead>
+    <tr>
+      <th colspan="2">Person Details</th>
+    </tr>
+    </thead>
+  <tr>
+    <td>Name</td>
+    <td>{{ person.name }}</td>
+  </tr>
+  <tr>
+    <td>Company</td>
+    <td>{{ person.company }}</td>
+  </tr>
+  <tr>
+    <td>Email</td>
+    <td>{{ person.email }}</td>
+  </tr>
+  <tr>
+    <td>Phone</td>
+    <td>{{ person.phone }}</td>
+  </tr>
+  <tr>
+    <td>Address</td>
+    <td>{{ person.address }}</td>
+  </tr>
+</table>
+
+  </div>
+  <a [routerLink]="['/person-details']">Back</a>
+</div>
+
+
